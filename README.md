@@ -1,6 +1,6 @@
 # Adept-6
-Introduction
-In today's fast-evolving technological landscape, the fusion of design and fabrication is crucial in shaping the future of robotics. With the growing demand for versatile and efficient robots, understanding the intricate details of design principles and fabrication techniques becomes essential. The Adept-6, a tabletop-sized robot, plays a key role in industrial automation, research and development, educational robotics, and small-scale manufacturing. This design analysis report seeks to assess the structural integrity of the robot.
+# Introduction
+#In today's fast-evolving technological landscape, the fusion of design and fabrication is crucial in shaping the future of robotics. With the growing demand for versatile and efficient robots, understanding the intricate details of design principles and fabrication techniques becomes essential. The Adept-6, a tabletop-sized robot, plays a key role in industrial automation, research and development, educational robotics, and small-scale manufacturing. This design analysis report seeks to assess the structural integrity of the robot.
 
 Methodology
 The design analysis was carried out using Autodesk Fusion 360, a computer-aided design (CAD) software. We redesigned the Adept-6 robot to fit tabletop dimensions while preserving the core functionality and aesthetics of the original design.
